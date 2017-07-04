@@ -1,0 +1,14 @@
+h2{
+	color: #90280A;
+	font-weight: bold;
+	line-height: 40px;
+	font-size:18px;
+}
+p{
+	font-size:12px;
+	line-height: 20px;
+	color:#90280A;
+}	
+p img{
+	vertical-align: middle;
+}	
